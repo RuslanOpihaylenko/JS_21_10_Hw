@@ -37,7 +37,7 @@
 // if(dollar){
 //     alert("For " + dollar + " dollars you get "+ (dollar*euro) + " euros");
 // }
-//6
+//7
 // let size  = prompt("Enter size in gigabytres: ");
 // size = Number(size);
 // const gigabyte = size*1000;
